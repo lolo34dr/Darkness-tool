@@ -1,6 +1,6 @@
 # Darkness-tools
 
-![Darkness-tools](https://github.com/Ddosguys/Darkness-tools/blob/main/Screenshot_20240729-185619.png)
+![Darkness-tools](https://github.com/lolo34dr/Darkness-tool/blob/main/Screenshot_20240729-185619.png)
 
 ## Introduction
 
@@ -11,7 +11,7 @@ Darkness-tools est une suite d'outils puissants conçus à des fins éducatives 
 Pour installer Darkness-tools, suivez les étapes ci-dessous :
 
 ```bash
-git clone https://github.com/Ddosguys/Darkness-tools
+git clone https://github.com/lolo34dr/Darkness-tool
 cd Darkness-tools
 python3 Setup.py
 ```
